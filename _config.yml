@@ -3,4 +3,5 @@ title: Mohammad Ridho Fahruni
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
-#header-col: "7BFE7A"
+link-col: "#008AFF"
+hover-col: "#0085A1"
